@@ -46,5 +46,7 @@ TODO: Update these details when halyard supports LDAP.
 
 In the mean time, put the above configuration in `~/.hal/$DEPLOYMENT/profiles/fiat-local.yml`, creating it if needed.
 
+If you haven't done so before, you have to enable `authz` via halyard `hal config security authz enable`
+
 
 ## Troubleshooting
